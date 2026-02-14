@@ -22,3 +22,4 @@ print("\nResult:")
 print("Moment =", moment, "kN-m (or N-m depending on input units)")
 
 #Changes Comment
+#Changes Comment 2
